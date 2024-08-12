@@ -13,6 +13,12 @@
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com JAVA.
 </p>
 
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tg.dev__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+
+
 <!-- Dropdown -->
 <details>
   <summary>👨 💻 Mais sobre mim</summary>
