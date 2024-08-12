@@ -8,7 +8,7 @@
 <p>
   👋 Oi, eu sou Thyago! Um apaixonado estudante de tecnologia do Brasil.
 
-  - 🌱 Atualmente estou estudando Engenharia de Software pela Estácio e participando do programa Oracle Next Education.
+  - 🌱 Atualmente cursando a faculdade de Engenharia de Software pela Estácio e participando do programa Oracle Next Education.
 
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com JAVA.
 </p>
