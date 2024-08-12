@@ -4,6 +4,12 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Thyago+Gomes!;" />
+</h1>
+
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Presentation -->
 <p>
   👋 Oi, eu sou Thyago! Um apaixonado estudante de tecnologia do Brasil.
@@ -50,6 +56,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Tg-d3v/Tg-d3v/output/snake.svg" alt="Snake animation" />
 
 ###
     
