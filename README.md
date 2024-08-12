@@ -59,7 +59,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tg-d3v/Tg-d3v/output/snake.svg" alt="Snake animation" />
-
-###
     
