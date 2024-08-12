@@ -13,9 +13,6 @@
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com JAVA.
 </p>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tg.dev__/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-gomes-bb3687294/)
 
 
 <!-- Dropdown -->
@@ -27,3 +24,7 @@
  
 - ⚡ Gosto de ler um bom livro, estudar programaçãp, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. 
 </details>
+
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tg.dev__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thyago-gomes-bb3687294/)
